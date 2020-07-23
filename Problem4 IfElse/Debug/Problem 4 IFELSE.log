@@ -1,0 +1,11 @@
+﻿  IF else.c
+C:\Users\Dom Sykes\Google Drive\Coding\C\C problems\Problem 4 IFELSE\IF else.c(12,8): error C2146: syntax error: missing ')' before identifier 'is'
+C:\Users\Dom Sykes\Google Drive\Coding\C\C problems\Problem 4 IFELSE\IF else.c(12,11): error C2065: 'is': undeclared identifier
+C:\Users\Dom Sykes\Google Drive\Coding\C\C problems\Problem 4 IFELSE\IF else.c(12,11): error C2146: syntax error: missing ';' before identifier 'greater'
+C:\Users\Dom Sykes\Google Drive\Coding\C\C problems\Problem 4 IFELSE\IF else.c(12,24): error C2065: 'than': undeclared identifier
+C:\Users\Dom Sykes\Google Drive\Coding\C\C problems\Problem 4 IFELSE\IF else.c(12,24): error C2146: syntax error: missing ';' before identifier 'b'
+C:\Users\Dom Sykes\Google Drive\Coding\C\C problems\Problem 4 IFELSE\IF else.c(12,25): error C2059: syntax error: ')'
+C:\Users\Dom Sykes\Google Drive\Coding\C\C problems\Problem 4 IFELSE\IF else.c(13,11): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+C:\Users\Dom Sykes\Google Drive\Coding\C\C problems\Problem 4 IFELSE\IF else.c(13,11): warning C4024: 'printf': different types for formal and actual parameter 1
+C:\Users\Dom Sykes\Google Drive\Coding\C\C problems\Problem 4 IFELSE\IF else.c(13,11): error C2146: syntax error: missing ')' before identifier 'is'
+C:\Users\Dom Sykes\Google Drive\Coding\C\C problems\Problem 4 IFELSE\IF else.c(13,25): error C2059: syntax error: ')'
